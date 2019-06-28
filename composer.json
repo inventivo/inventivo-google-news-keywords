@@ -1,0 +1,14 @@
+{
+  "name": "inventivo/inventivo-google-news-keywords",
+  "description": "Generates and adds Google News Keywords based on your posts tags.",
+  "homepage": "https://www.inventivo.de",
+  "license": "CC BY-ND",
+  "authors": [
+    {
+      "name": "Nils Harder",
+      "email": "nils.harder@inventivo.de",
+      "homepage": "https://www.inventivo.de"
+    }
+  ],
+  "type": "wordpress-plugin"
+}
